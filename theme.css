@@ -1,0 +1,104 @@
+@media (min-width:768px) and (max-width:960px) {
+    #container {
+        background-color: rgb(216, 216, 216);
+          border: 1px solid rgb(151, 151, 151);
+    }
+
+#a {
+    border-bottom: 1px solid rgb(151, 151, 151) ;
+    color: rgb(78, 78, 78);
+}
+aside {
+    border-right: 1px solid rgb(151, 151, 151) ;
+        color: rgb(78, 78, 78);
+}
+
+#c,#d {
+    border-bottom: 1px solid rgb(151, 151, 151) ;
+    color: rgb(78, 78, 78);
+
+
+}
+
+#c {
+    border-right: 1px solid rgb(151, 151, 151) ;
+}
+
+#con3 {
+    border-bottom: 1px solid rgb(151, 151, 151) ;
+
+}
+
+#e,#f,#g {
+    border-right: 1px solid rgb(151, 151, 151);
+    color: rgb(78, 78, 78);
+
+}
+
+#h {
+    color: rgb(78, 78, 78);
+
+}
+
+#footer {
+    color: rgb(78, 78, 78);
+
+}
+
+
+}
+
+
+@media (min-width:480px) and (max-width:767px) {
+
+    #container {
+        background-color: rgb(216, 216, 216);
+          border: 1px solid rgb(151, 151, 151);
+
+    }
+
+    #a {
+        border-bottom: 1px solid rgb(151, 151, 151);
+        color: rgb(78, 78, 78);
+    }
+
+    aside {
+        border-bottom: 1px solid rgb(151, 151, 151);
+        color: rgb(78, 78, 78);
+    }
+
+    #c {
+        border-bottom: 1px solid rgb(151, 151, 151);
+        color: rgb(78, 78, 78);
+    }
+
+    #d {
+        border-bottom: 1px solid rgb(151, 151, 151);
+        color: rgb(78, 78, 78);
+    }
+
+    #e,#f {
+        color: rgb(78, 78, 78);
+        border-bottom: 1px solid rgb(151, 151, 151);
+    }
+
+    #e {
+        border-right: 1px solid rgb(151, 151, 151) ;
+    }
+    
+    #g,#h {
+        border-bottom: 1px solid rgb(151, 151, 151);
+        color: rgb(78, 78, 78);
+
+    }
+
+    #g{
+        border-right: 1px solid rgb(151, 151, 151) ;
+        }
+
+    #footer {
+        color: rgb(78, 78, 78);
+
+    }    
+
+}
