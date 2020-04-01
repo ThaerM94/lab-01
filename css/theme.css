@@ -1,21 +1,82 @@
+@media screen and (min-width:960px) {
+    * {
+        box-sizing: border-box;
+    }
+
+#container {
+    background-color: rgb(221, 39, 39);
+      /* border-right: 1px solid rgb(151, 151, 151); */
+}
+
+#a {
+border: 1px solid rgb(151, 151, 151) ;
+color: rgb(12, 2, 2);
+}
+aside {
+border: 1px solid rgb(151, 151, 151) ;
+    color: rgb(10, 3, 3);
+}
+
+#con1 {
+    border: 1px solid rgb(151, 151, 151) ;
+
+}
+
+#con2 {
+border-bottom: 1px solid rgb(151, 151, 151) ;
+color: rgb(12, 3, 3);
+
+
+}
+
+#c {
+border-right: 1px solid rgb(151, 151, 151) ;
+}
+
+#con3 {
+border-bottom: 1px solid rgb(151, 151, 151) ;
+
+}
+
+#e,#f,#g {
+border-right: 1px solid rgb(151, 151, 151);
+color: rgb(7, 2, 2);
+
+}
+
+#h {
+color: rgb(7, 2, 2);
+
+}
+
+#footer {
+border-bottom: 1px solid rgb(151, 151, 151) ;
+color: rgb(5, 2, 2);
+
+}
+
+}
+
+
+
 @media (min-width:768px) and (max-width:960px) {
     #container {
-        background-color: rgb(216, 216, 216);
+        background-color: rgb(184, 150, 38);
           border: 1px solid rgb(151, 151, 151);
     }
 
 #a {
     border-bottom: 1px solid rgb(151, 151, 151) ;
-    color: rgb(78, 78, 78);
+    color: rgb(5, 2, 2);
 }
 aside {
     border-right: 1px solid rgb(151, 151, 151) ;
-        color: rgb(78, 78, 78);
+    color: rgb(5, 2, 2);
 }
 
 #c,#d {
     border-bottom: 1px solid rgb(151, 151, 151) ;
-    color: rgb(78, 78, 78);
+    color: rgb(5, 2, 2);
 
 
 }
@@ -31,17 +92,17 @@ aside {
 
 #e,#f,#g {
     border-right: 1px solid rgb(151, 151, 151);
-    color: rgb(78, 78, 78);
+    color: rgb(5, 2, 2);
 
 }
 
 #h {
-    color: rgb(78, 78, 78);
+    color: rgb(5, 2, 2);
 
 }
 
 #footer {
-    color: rgb(78, 78, 78);
+    color: rgb(5, 2, 2);
 
 }
 
